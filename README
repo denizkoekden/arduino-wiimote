@@ -1,1 +1,3 @@
+A minimal library for having an Arduino impersonate a Wiimote extension when plugged into the expansion port of a Wiimote, with support for bidirectional communication.
+
 forked from http://gitorious.org/randomstuff/arduino-wiimote
