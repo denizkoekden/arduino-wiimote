@@ -1,7 +1,7 @@
 #ifndef wm_crypto_h
 
-#include <avr/pgmspace.h>
-#include <string.h>
+#include "avr/pgmspace.h"
+#include "string.h"
 
 
 static volatile unsigned char wm_rand[10];
